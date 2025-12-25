@@ -39,7 +39,7 @@ venv/
 
 # Scraper data
 backend/scraper/data/
-*.png
+backend/scraper/*.png
 
 # Testing
 coverage/
